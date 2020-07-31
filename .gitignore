@@ -1,3 +1,6 @@
+# NPM modules
+node_modules/
+
 # VS Code files
 .vscode
 
@@ -130,3 +133,4 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+node_modules
